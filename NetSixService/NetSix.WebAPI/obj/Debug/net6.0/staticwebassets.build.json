@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5VMBlB5KGxO67965H3AiAad92LJVG83lfyvoQ/5HLrw=",
+  "Source": "NetSix.WebAPI",
+  "BasePath": "_content/NetSix.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

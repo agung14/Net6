@@ -1,0 +1,12 @@
+D:\Agung\Net\Net 6\NetSixService\NetSix.Infrastructure\bin\Debug\net6.0\NetSix.Infrastructure.deps.json
+D:\Agung\Net\Net 6\NetSixService\NetSix.Infrastructure\bin\Debug\net6.0\NetSix.Infrastructure.dll
+D:\Agung\Net\Net 6\NetSixService\NetSix.Infrastructure\bin\Debug\net6.0\NetSix.Infrastructure.pdb
+D:\Agung\Net\Net 6\NetSixService\NetSix.Infrastructure\obj\Debug\net6.0\NetSix.Infrastructure.csproj.AssemblyReference.cache
+D:\Agung\Net\Net 6\NetSixService\NetSix.Infrastructure\obj\Debug\net6.0\NetSix.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Agung\Net\Net 6\NetSixService\NetSix.Infrastructure\obj\Debug\net6.0\NetSix.Infrastructure.AssemblyInfoInputs.cache
+D:\Agung\Net\Net 6\NetSixService\NetSix.Infrastructure\obj\Debug\net6.0\NetSix.Infrastructure.AssemblyInfo.cs
+D:\Agung\Net\Net 6\NetSixService\NetSix.Infrastructure\obj\Debug\net6.0\NetSix.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Agung\Net\Net 6\NetSixService\NetSix.Infrastructure\obj\Debug\net6.0\NetSix.Infrastructure.dll
+D:\Agung\Net\Net 6\NetSixService\NetSix.Infrastructure\obj\Debug\net6.0\refint\NetSix.Infrastructure.dll
+D:\Agung\Net\Net 6\NetSixService\NetSix.Infrastructure\obj\Debug\net6.0\NetSix.Infrastructure.pdb
+D:\Agung\Net\Net 6\NetSixService\NetSix.Infrastructure\obj\Debug\net6.0\ref\NetSix.Infrastructure.dll

@@ -1,0 +1,14 @@
+D:\Agung\Net\Net 6\CharacterCounter\bin\Debug\net6.0\CharacterCounter.exe
+D:\Agung\Net\Net 6\CharacterCounter\bin\Debug\net6.0\CharacterCounter.deps.json
+D:\Agung\Net\Net 6\CharacterCounter\bin\Debug\net6.0\CharacterCounter.runtimeconfig.json
+D:\Agung\Net\Net 6\CharacterCounter\bin\Debug\net6.0\CharacterCounter.dll
+D:\Agung\Net\Net 6\CharacterCounter\bin\Debug\net6.0\CharacterCounter.pdb
+D:\Agung\Net\Net 6\CharacterCounter\obj\Debug\net6.0\CharacterCounter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Agung\Net\Net 6\CharacterCounter\obj\Debug\net6.0\CharacterCounter.AssemblyInfoInputs.cache
+D:\Agung\Net\Net 6\CharacterCounter\obj\Debug\net6.0\CharacterCounter.AssemblyInfo.cs
+D:\Agung\Net\Net 6\CharacterCounter\obj\Debug\net6.0\CharacterCounter.csproj.CoreCompileInputs.cache
+D:\Agung\Net\Net 6\CharacterCounter\obj\Debug\net6.0\CharacterCounter.dll
+D:\Agung\Net\Net 6\CharacterCounter\obj\Debug\net6.0\refint\CharacterCounter.dll
+D:\Agung\Net\Net 6\CharacterCounter\obj\Debug\net6.0\CharacterCounter.pdb
+D:\Agung\Net\Net 6\CharacterCounter\obj\Debug\net6.0\CharacterCounter.genruntimeconfig.cache
+D:\Agung\Net\Net 6\CharacterCounter\obj\Debug\net6.0\ref\CharacterCounter.dll

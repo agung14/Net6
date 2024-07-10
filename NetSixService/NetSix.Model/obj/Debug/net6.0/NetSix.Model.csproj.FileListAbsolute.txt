@@ -1,0 +1,11 @@
+D:\Agung\Net\Net 6\NetSixService\NetSix.Model\bin\Debug\net6.0\NetSix.Model.deps.json
+D:\Agung\Net\Net 6\NetSixService\NetSix.Model\bin\Debug\net6.0\NetSix.Model.dll
+D:\Agung\Net\Net 6\NetSixService\NetSix.Model\bin\Debug\net6.0\NetSix.Model.pdb
+D:\Agung\Net\Net 6\NetSixService\NetSix.Model\obj\Debug\net6.0\NetSix.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Agung\Net\Net 6\NetSixService\NetSix.Model\obj\Debug\net6.0\NetSix.Model.AssemblyInfoInputs.cache
+D:\Agung\Net\Net 6\NetSixService\NetSix.Model\obj\Debug\net6.0\NetSix.Model.AssemblyInfo.cs
+D:\Agung\Net\Net 6\NetSixService\NetSix.Model\obj\Debug\net6.0\NetSix.Model.csproj.CoreCompileInputs.cache
+D:\Agung\Net\Net 6\NetSixService\NetSix.Model\obj\Debug\net6.0\NetSix.Model.dll
+D:\Agung\Net\Net 6\NetSixService\NetSix.Model\obj\Debug\net6.0\refint\NetSix.Model.dll
+D:\Agung\Net\Net 6\NetSixService\NetSix.Model\obj\Debug\net6.0\NetSix.Model.pdb
+D:\Agung\Net\Net 6\NetSixService\NetSix.Model\obj\Debug\net6.0\ref\NetSix.Model.dll

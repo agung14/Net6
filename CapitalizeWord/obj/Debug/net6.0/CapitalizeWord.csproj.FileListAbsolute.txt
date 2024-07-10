@@ -1,0 +1,14 @@
+D:\Agung\Net\Net 6\CapitalizeWord\bin\Debug\net6.0\CapitalizeWord.exe
+D:\Agung\Net\Net 6\CapitalizeWord\bin\Debug\net6.0\CapitalizeWord.deps.json
+D:\Agung\Net\Net 6\CapitalizeWord\bin\Debug\net6.0\CapitalizeWord.runtimeconfig.json
+D:\Agung\Net\Net 6\CapitalizeWord\bin\Debug\net6.0\CapitalizeWord.dll
+D:\Agung\Net\Net 6\CapitalizeWord\bin\Debug\net6.0\CapitalizeWord.pdb
+D:\Agung\Net\Net 6\CapitalizeWord\obj\Debug\net6.0\CapitalizeWord.GeneratedMSBuildEditorConfig.editorconfig
+D:\Agung\Net\Net 6\CapitalizeWord\obj\Debug\net6.0\CapitalizeWord.AssemblyInfoInputs.cache
+D:\Agung\Net\Net 6\CapitalizeWord\obj\Debug\net6.0\CapitalizeWord.AssemblyInfo.cs
+D:\Agung\Net\Net 6\CapitalizeWord\obj\Debug\net6.0\CapitalizeWord.csproj.CoreCompileInputs.cache
+D:\Agung\Net\Net 6\CapitalizeWord\obj\Debug\net6.0\CapitalizeWord.dll
+D:\Agung\Net\Net 6\CapitalizeWord\obj\Debug\net6.0\refint\CapitalizeWord.dll
+D:\Agung\Net\Net 6\CapitalizeWord\obj\Debug\net6.0\CapitalizeWord.pdb
+D:\Agung\Net\Net 6\CapitalizeWord\obj\Debug\net6.0\CapitalizeWord.genruntimeconfig.cache
+D:\Agung\Net\Net 6\CapitalizeWord\obj\Debug\net6.0\ref\CapitalizeWord.dll
